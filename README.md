@@ -1,2 +1,2 @@
 # sailing-katja
-Wordpress site for the sailing blog [sailing-katja](wwww.sailing-katja.no) 
+Wordpress site for the sailing blog [sailing-katja](http://sailing-katja.no) 
